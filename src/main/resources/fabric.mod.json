@@ -2,34 +2,32 @@
   "schemaVersion": 1,
   "id": "qfabric",
   "version": "${version}",
-
   "name": "QFabric",
-    "description": "Quark for Fabric",
-      "authors": [
+  "description": "Quark for Fabric",
+  "authors": [
     "Hexeption"
   ],
-      "contact": {
-        "homepage": "https://hexeption.dev",            "sources": "https://github.com/Hexeption/QFabric"
-      },
-  
+  "contact": {
+    "homepage": "https://hexeption.dev",
+    "sources": "https://github.com/Hexeption/QFabric"
+  },
   "license": "CC0-1.0",
   "icon": "assets/qfabric/icon.png",
-
   "environment": "*",
-    "entrypoints": {
+  "entrypoints": {
     "main": [
-"uk.hexeption.qfabric.QfabricMain"
-],
-"client": [
-"uk.hexeption.qfabric.QfabricClient"
-]
+      "uk.hexeption.qfabric.QfabricMain"
+    ],
+    "client": [
+      "uk.hexeption.qfabric.QfabricClient"
+    ]
   },
-      "mixins": [
+  "mixins": [
     "qfabric.mixins.json"
   ],
-  
   "depends": {
     "fabricloader": ">=0.8.2+build.194",
-        "fabric": "*",            "minecraft": "1.15.2",
-      }
+    "fabric": "*",
+    "minecraft": "1.15.2"
+  }
 }
