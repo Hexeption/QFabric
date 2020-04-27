@@ -1,15 +1,15 @@
 {
 	"parent": "item/generated",
 	"textures": { 
-		"layer0": "quark:item/backpack",
-		"layer1": "quark:item/backpack_overlay"
+		"layer0": "qfabric:item/backpack",
+		"layer1": "qfabric:item/backpack_overlay"
 	},
 	"overrides": [
 		{
 			"predicate": {
 				"has_items": 1
 			},
-			"model": "quark:item/backpack_locked"
+			"model": "qfabric:item/backpack_locked"
 		}
 	]
 }

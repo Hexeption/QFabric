@@ -1,21 +1,21 @@
 {
   "entity.stoneling.meep": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.meep",
+    "subtitle": "qfabric.subtitles.meep",
     "sounds": [
-      "quark:entity/stoneling/meep"
+      "qfabric:entity/stoneling/meep"
     ]
   },
   "entity.stoneling.purr": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.purr",
+    "subtitle": "qfabric.subtitles.purr",
     "sounds": [
-      { "name": "quark:entity/stoneling/squeek", "volume": 0.25 }
+      { "name": "qfabric:entity/stoneling/squeek", "volume": 0.25 }
     ]
   },
   "entity.stoneling.give": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.give_stoneling",
+    "subtitle": "qfabric.subtitles.give_stoneling",
     "sounds": [
       "minecraft:entity/itemframe/add_item1",
       "minecraft:entity/itemframe/add_item2",
@@ -25,7 +25,7 @@
   },
   "entity.stoneling.take": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.take_stoneling",
+    "subtitle": "qfabric.subtitles.take_stoneling",
     "sounds": [
       "minecraft:entity/itemframe/remove_item1",
       "minecraft:entity/itemframe/remove_item2",
@@ -35,7 +35,7 @@
   },
   "entity.stoneling.eat": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.feed_stoneling",
+    "subtitle": "qfabric.subtitles.feed_stoneling",
     "sounds": [
       { "name": "minecraft:dig/stone1", "pitch": 0.8 },
       { "name": "minecraft:dig/stone2", "pitch": 0.8 },
@@ -45,54 +45,54 @@
   },
   "entity.stoneling.cry": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.hurt_stoneling",
+    "subtitle": "qfabric.subtitles.hurt_stoneling",
     "sounds": [
-      "quark:entity/stoneling/hurt"
+      "qfabric:entity/stoneling/hurt"
     ]
   },
   "entity.stoneling.die": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.kill_stoneling",
+    "subtitle": "qfabric.subtitles.kill_stoneling",
     "sounds": [
-      "quark:entity/stoneling/die"
+      "qfabric:entity/stoneling/die"
     ]
   },
   "entity.stoneling.michael": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.michael_here",
+    "subtitle": "qfabric.subtitles.michael_here",
     "sounds": [
-      "quark:entity/stoneling/vsauce1",
-      "quark:entity/stoneling/vsauce2",
-      "quark:entity/stoneling/vsauce3",
-      "quark:entity/stoneling/vsauce4",
-      "quark:entity/stoneling/vsauce5",
-      "quark:entity/stoneling/vsauce6"
+      "qfabric:entity/stoneling/vsauce1",
+      "qfabric:entity/stoneling/vsauce2",
+      "qfabric:entity/stoneling/vsauce3",
+      "qfabric:entity/stoneling/vsauce4",
+      "qfabric:entity/stoneling/vsauce5",
+      "qfabric:entity/stoneling/vsauce6"
     ]
   },
   "entity.pickarang.throw": {
     "category": "players",
-    "subtitle": "quark.subtitles.throw_pickarang",
+    "subtitle": "qfabric.subtitles.throw_pickarang",
     "sounds": [
-      { "name": "quark:entity/pickarang/throw", "pitch": 1.2, "volume": 2 }
+      { "name": "qfabric:entity/pickarang/throw", "pitch": 1.2, "volume": 2 }
     ]
   },
   "entity.pickarang.clank": {
     "category": "players",
-    "subtitle": "quark.subtitles.clank_pickarang",
+    "subtitle": "qfabric.subtitles.clank_pickarang",
     "sounds": [
       { "name": "minecraft:random/anvil_land", "pitch": 2.0, "volume": 0.5 }
     ]
   },
   "entity.pickarang.spark": {
     "category": "players",
-    "subtitle": "quark.subtitles.spark_pickarang",
+    "subtitle": "qfabric.subtitles.spark_pickarang",
     "sounds": [
       { "name": "minecraft:random/fizz", "pitch": 0.5, "volume": 0.5 }
     ]
   },
   "entity.pickarang.pickup": {
     "category": "players",
-    "subtitle": "quark.subtitles.pickup_pickarang",
+    "subtitle": "qfabric.subtitles.pickup_pickarang",
     "sounds": [
       { "name": "minecraft:random/pop", "pitch": 1.125, "volume": 0.5 },
       { "name": "minecraft:random/pop", "pitch": 1.0, "volume": 0.5 },
@@ -102,41 +102,41 @@
   },
   "entity.frog.wednesday": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.hump_day",
+    "subtitle": "qfabric.subtitles.hump_day",
     "sounds": [
-      "quark:entity/frog/wednesday"
+      "qfabric:entity/frog/wednesday"
     ]
   },
   "entity.frog.die": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.frog_die",
+    "subtitle": "qfabric.subtitles.frog_die",
     "sounds": [
-      { "name": "quark:entity/frog/die", "volume": 0.5 }
+      { "name": "qfabric:entity/frog/die", "volume": 0.5 }
     ]
   },
   "entity.frog.hurt": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.frog_hurt",
+    "subtitle": "qfabric.subtitles.frog_hurt",
     "sounds": [
-      { "name": "quark:entity/frog/hurt1", "volume": 0.5 },
-      { "name": "quark:entity/frog/hurt2", "volume": 0.5 },
-      { "name": "quark:entity/frog/hurt3", "volume": 0.5 },
-      { "name": "quark:entity/frog/hurt4", "volume": 0.5 }
+      { "name": "qfabric:entity/frog/hurt1", "volume": 0.5 },
+      { "name": "qfabric:entity/frog/hurt2", "volume": 0.5 },
+      { "name": "qfabric:entity/frog/hurt3", "volume": 0.5 },
+      { "name": "qfabric:entity/frog/hurt4", "volume": 0.5 }
     ]
   },
   "entity.frog.idle": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.frog_idle",
+    "subtitle": "qfabric.subtitles.frog_idle",
     "sounds": [
-      { "name": "quark:entity/frog/idle1", "volume": 0.25 },
-      { "name": "quark:entity/frog/idle2", "volume": 0.25 },
-      { "name": "quark:entity/frog/idle3", "volume": 0.25 },
-      { "name": "quark:entity/frog/idle4", "volume": 0.25 }
+      { "name": "qfabric:entity/frog/idle1", "volume": 0.25 },
+      { "name": "qfabric:entity/frog/idle2", "volume": 0.25 },
+      { "name": "qfabric:entity/frog/idle3", "volume": 0.25 },
+      { "name": "qfabric:entity/frog/idle4", "volume": 0.25 }
     ]
   },
   "entity.frog.jump": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.frog_jump",
+    "subtitle": "qfabric.subtitles.frog_jump",
     "sounds": [
       { "name": "minecraft:mob/rabbit/hop1", "volume": 0.1 },
       { "name": "minecraft:mob/rabbit/hop2", "volume": 0.1 },
@@ -146,59 +146,59 @@
   },
   "entity.crab.idle": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.crab_scuttle",
+    "subtitle": "qfabric.subtitles.crab_scuttle",
     "sounds": []
   },
   "entity.crab.hurt": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.crab_hurt",
+    "subtitle": "qfabric.subtitles.crab_hurt",
     "sounds": []
   },
   "entity.crab.die": {
     "category": "neutral",
-    "subtitle": "quark.subtitles.crab_die",
+    "subtitle": "qfabric.subtitles.crab_die",
     "sounds": []
   },
   "block.monster_box.growl": {
     "category": "blocks",
-    "subtitle": "quark.subtitles.growl",
+    "subtitle": "qfabric.subtitles.growl",
     "sounds": [
-      "quark:block/monster_box"   
+      "qfabric:block/monster_box"   
      ]
   },
   "block.pipe.shoot": {
     "category": "blocks",
-    "subtitle": "quark.subtitles.pipe_shoot",
+    "subtitle": "qfabric.subtitles.pipe_shoot",
     "sounds": [
-      "quark:block/pipe/shoot"
+      "qfabric:block/pipe/shoot"
     ]
   },
   "block.pipe.pickup": {
     "category": "blocks",
-    "subtitle": "quark.subtitles.pipe_pickup",
+    "subtitle": "qfabric.subtitles.pipe_pickup",
     "sounds": [
-      "quark:block/pipe/pickup"
+      "qfabric:block/pipe/pickup"
     ]
   },
   "block.pipe.shoot.lenny": {
     "category": "blocks",
-    "subtitle": "quark.subtitles.pipe_shoot_lenny",
+    "subtitle": "qfabric.subtitles.pipe_shoot_lenny",
     "sounds": [
-      "quark:block/pipe/shoot"
+      "qfabric:block/pipe/shoot"
     ]
   },
   "block.pipe.pickup.lenny": {
     "category": "blocks",
-    "subtitle": "quark.subtitles.pipe_pickup_lenny",
+    "subtitle": "qfabric.subtitles.pipe_pickup_lenny",
     "sounds": [
-      "quark:block/pipe/pickup"
+      "qfabric:block/pipe/pickup"
     ]
   },
   "item.camera.shutter": {
     "category": "players",
-    "subtitle": "quark.subtitles.camera_shutter",
+    "subtitle": "qfabric.subtitles.camera_shutter",
     "sounds": [
-      "quark:item/camera"
+      "qfabric:item/camera"
     ]
   }
 }

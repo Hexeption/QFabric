@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "quark:item/ancient_tome"
+        "layer0": "qfabric:item/ancient_tome"
     }
 }

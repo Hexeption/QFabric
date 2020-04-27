@@ -12,6 +12,12 @@ import uk.hexeption.qfabric.QfabricMain;
  */
 public class QFabricItems {
 
+    public static final Item ANCIENT_TOME = register("ancient_tome", new Item(newSettings()));
+    public static final Item BACKPACK = register("backpack", new Item(newSettings()));
+    public static final Item BIOTITE = register("biotite", new Item(newSettings()));
+    public static final Item CLEAR_SHARD = register("clear_shard", new Item(newSettings()));
+    public static final Item TROWEL = register("trowel", new Item(newSettings()));
+
     static Item.Settings newSettings() {
         return new Item.Settings().group(QfabricMain.GROUP);
     }

@@ -12,6 +12,9 @@ public class QfabricClient implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
-        BlockRenderLayerMap.INSTANCE.putBlocks(RenderLayer.getTranslucent(), QFabricBlocks.FRAMED_GLASS, QFabricBlocks.FRAMED_GLASS_PANE);
+        BlockRenderLayerMap.INSTANCE.putBlocks(RenderLayer.getTranslucent(),
+            QFabricBlocks.FRAMED_GLASS, QFabricBlocks.FRAMED_GLASS_PANE,
+            QFabricBlocks.DIRTY_GLASS, QFabricBlocks.DIRTY_GLASS_PANE
+        );
     }
 }

@@ -19,8 +19,14 @@ import uk.hexeption.qfabric.blocks.QFabricGlassPaneBlock;
  */
 public class QFabricBlocks {
 
+    /**
+     * Glass
+     */
     public static final Block FRAMED_GLASS = register("framed_glass", new QFabricGlassBlock(FabricBlockSettings.copy(Blocks.GLASS).build()));
     public static final Block FRAMED_GLASS_PANE = register("framed_glass_pane", new QFabricGlassPaneBlock(FabricBlockSettings.copy(Blocks.GLASS).build()));
+
+    public static final Block DIRTY_GLASS = register("dirty_glass", new QFabricGlassBlock(FabricBlockSettings.copy(Blocks.GLASS).build()));
+    public static final Block DIRTY_GLASS_PANE = register("dirty_glass_pane", new QFabricGlassPaneBlock(FabricBlockSettings.copy(Blocks.GLASS).build()));
 
     public static void init() {
 

@@ -1,5 +1,5 @@
 {
 	"variants": {
-		"": { "model": "quark:block/dirty_glass" }
+		"": { "model": "qfabric:block/dirty_glass" }
 	}
 }

@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "quark:item/trowel"
+        "layer0": "qfabric:item/trowel"
     }
 }
