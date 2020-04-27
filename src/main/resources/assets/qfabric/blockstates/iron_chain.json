@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "type=top":  { "model": "quark:block/chain_top" },
+        "type=middle":  { "model": "quark:block/chain_middle" },
+        "type=bottom": [
+            { "model": "quark:block/chain_bottom_1" },
+            { "model": "quark:block/chain_bottom_2" },
+            { "model": "quark:block/chain_bottom_3" }
+        ]
+    }
+}
