@@ -1,6 +1,6 @@
 {
 	"parent": "block/cube_all",
 	"textures": {
-		"all": "quark:block/framed_glass"
+		"all": "qfabric:block/framed_glass"
 	}
 }

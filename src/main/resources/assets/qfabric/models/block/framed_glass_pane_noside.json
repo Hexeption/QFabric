@@ -1,6 +1,6 @@
 {
     "parent": "block/template_glass_pane_noside",
     "textures": {
-        "pane": "quark:block/framed_glass"
+        "pane": "qfabric:block/framed_glass"
     }
 }
