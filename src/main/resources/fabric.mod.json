@@ -19,7 +19,7 @@
       "uk.hexeption.qfabric.QfabricMain"
     ],
     "client": [
-      "uk.hexeption.qfabric.QfabricClient"
+      "uk.hexeption.qfabric.client.QfabricClient"
     ]
   },
   "mixins": [

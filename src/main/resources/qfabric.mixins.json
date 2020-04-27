@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "uk.hexeption.qfabric.mixin",
+  "package": "uk.hexeption.qfabric.mixins",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
