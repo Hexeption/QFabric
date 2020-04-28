@@ -2,6 +2,6 @@
     "parent": "block/cube_column",
     "textures": {
         "end": "block/spruce_planks",
-        "side": "quark:block/spruce_bookshelf"
+        "side": "qfabric:block/spruce_bookshelf"
     }
 }

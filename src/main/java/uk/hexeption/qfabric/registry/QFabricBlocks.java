@@ -28,6 +28,16 @@ public class QFabricBlocks {
     public static final Block DIRTY_GLASS = register("dirty_glass", new QFabricGlassBlock(FabricBlockSettings.copy(Blocks.GLASS).build()));
     public static final Block DIRTY_GLASS_PANE = register("dirty_glass_pane", new QFabricGlassPaneBlock(FabricBlockSettings.copy(Blocks.GLASS).build()));
 
+    /**
+     * Bookshelves
+     */
+    public static final Block ACACIA_BOOKSHELF = register("acacia_bookshelf", new Block(FabricBlockSettings.copy(Blocks.BOOKSHELF).build()));
+    public static final Block BIRCH_BOOKSHELF = register("birch_bookshelf", new Block(FabricBlockSettings.copy(Blocks.BOOKSHELF).build()));
+    public static final Block DARK_OAK_BOOKSHELF = register("dark_oak_bookshelf", new Block(FabricBlockSettings.copy(Blocks.BOOKSHELF).build()));
+    public static final Block JUNGLE_BOOKSHELF = register("jungle_bookshelf", new Block(FabricBlockSettings.copy(Blocks.BOOKSHELF).build()));
+    public static final Block SPRUCE_BOOKSHELF = register("spruce_bookshelf", new Block(FabricBlockSettings.copy(Blocks.BOOKSHELF).build()));
+
+
     public static void init() {
 
     }

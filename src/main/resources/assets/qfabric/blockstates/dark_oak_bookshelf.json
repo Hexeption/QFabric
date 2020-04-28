@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "quark:block/dark_oak_bookshelf" }
+        "": { "model": "qfabric:block/dark_oak_bookshelf" }
     }
 }

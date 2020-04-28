@@ -2,6 +2,6 @@
     "parent": "block/cube_column",
     "textures": {
         "end": "block/birch_planks",
-        "side": "quark:block/birch_bookshelf"
+        "side": "qfabric:block/birch_bookshelf"
     }
 }

@@ -1,5 +1,5 @@
 {
     "variants": {
-        "": { "model": "quark:block/spruce_bookshelf" }
+        "": { "model": "qfabric:block/spruce_bookshelf" }
     }
 }
